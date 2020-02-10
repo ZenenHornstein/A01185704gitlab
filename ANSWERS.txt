@@ -1,0 +1,10 @@
+git init
+git add remote origin
+git commit -m "first commit"
+mv ~/bcit/comp1800/movie_list/* .
+git add .
+git commit -m
+git push
+
+touch ANSWERS.txt
+vim ANSWERS.txt
