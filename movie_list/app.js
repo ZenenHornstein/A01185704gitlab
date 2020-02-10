@@ -1,5 +1,5 @@
 // Blake | Zenen | Trevor
-
+let answer = prompt("I have added this as part of my terminal git lab")
 // Selectors
 const movieShortList = document.querySelector('#movieShortList');
 const movieHistoryTable = document.querySelector('#movieHistoryTable');
