@@ -1,0 +1,18 @@
+.flex {
+    display: block;
+    justify-content: space-between;
+    align-items: center;
+    }
+  
+.container {
+    height: 90vh;
+    }
+
+tr:nth-child(odd) {
+    background-color: #eeeeee;
+    }
+
+tr:hover {
+    background-color: grey;
+    color: white;
+    }
